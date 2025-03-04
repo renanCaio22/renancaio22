@@ -15,7 +15,7 @@ Hi 👋 My name is Renan Caio
 Junior Full Stack Software Developer
 -----------------------------
 
-I'm a 28 years old developer begginer, I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 30 years old developer begginer, I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
 
 * 🌍  I'm based in Florianopólis, Brazil
